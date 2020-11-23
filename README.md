@@ -17,10 +17,14 @@ BankNote_Authentication.csv - Dataset
 # Setting up the project :
 The following libraries needs to be installed for the program to run.
 Numpy
+
 Pandas
+
 Seaborn
+
 Sklearn
-Matplotlib
+
+Matplotlib.
 
 # Running the program :
 Run the program using Google Collaboratory by using the link in banknote.py or in any Python Interpreter by typing py banknote.py (tested on Windows 10)
