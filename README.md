@@ -28,6 +28,7 @@ BankNote_Authentication.csv - Dataset
 
 # Setting up the project :
 The following libraries needs to be installed for the program to run.
+
 ~ Numpy
 
 ~ Pandas
