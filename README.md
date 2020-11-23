@@ -1,6 +1,6 @@
 # FakeCurrencyClassifier
 # K-Nearest Neighbour Python
-Classification of Fake and Genuine Currency notes using K- Nearest Neighbour in Python
+Classification of Fake and Genuine Currency notes using K- Nearest Neighbour in Python.
 
 # About :
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. The KNN algorithm assumes that similar things exist in close proximity. 
@@ -16,7 +16,7 @@ The dataset consists of  features include :
 Variance of wavelet transformed images, Skewness of wavelet transformed images, Curtosis of wavelet transformed images, Entropy of images of both fake and genuine notes.
 
 # Understanding files and folders in project :
-banknote.py - Contains the code for the project
+KNN.py - Contains the code for the project
 
 BankNote_Authentication.csv - Dataset
 
@@ -33,4 +33,4 @@ Sklearn
 Matplotlib.
 
 # Running the program :
-Run the program using Google Collaboratory by using the link in banknote.py or in any Python Interpreter by typing py banknote.py (tested on Windows 10)
+Run the program using Google Collaboratory by using the link in KNN.py or in any Python Interpreter by typing py KNN.py (tested on Windows 10)
