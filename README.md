@@ -13,7 +13,13 @@ This project aims to classify currency notes as fake or genuine using KNN algori
 # Dataset Description :
 The dataset consists of  features include :
 
-Variance of wavelet transformed images, Skewness of wavelet transformed images, Curtosis of wavelet transformed images, Entropy of images of both fake and genuine notes.
+Variance of wavelet transformed images
+
+Skewness of wavelet transformed images
+
+Curtosis of wavelet transformed images
+
+Entropy of images of both fake and genuine notes.
 
 # Understanding files and folders in project :
 KNN.py - Contains the code for the project
@@ -22,15 +28,15 @@ BankNote_Authentication.csv - Dataset
 
 # Setting up the project :
 The following libraries needs to be installed for the program to run.
-Numpy
+~ Numpy
 
-Pandas
+~ Pandas
 
-Seaborn
+~ Seaborn
 
-Sklearn
+~ Sklearn
 
-Matplotlib.
+~ Matplotlib.
 
 # Running the program :
 Run the program using Google Collaboratory by using the link in KNN.py or in any Python Interpreter by typing py KNN.py (tested on Windows 10)
