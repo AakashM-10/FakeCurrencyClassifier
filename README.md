@@ -1,6 +1,6 @@
 # FakeCurrencyClassifier
-# K-Nearest Neighbour Python
-Classification of Fake and Genuine Currency notes using K- Nearest Neighbour in Python.
+# K-Nearest Neighbor Python
+Classification of Fake and Genuine Currency notes using K- Nearest Neighbor in Python.
 
 # About :
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. The KNN algorithm assumes that similar things exist in close proximity. 
